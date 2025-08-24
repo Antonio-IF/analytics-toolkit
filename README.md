@@ -1,4 +1,4 @@
-# Data Science Toolkit
+# Data Toolkit
 
 Un framework modular y extensible para análisis de datos, machine learning y pipelines ETL.
 
