@@ -149,6 +149,5 @@ Ver [docs/roadmap.md](docs/roadmap.md) para el plan de desarrollo detallado.
 
 ## 📞 Contacto
 
-- Autor: Tu Nombre
-- Email: tu.email@ejemplo.com
-- Proyecto: [https://github.com/tu-usuario/data-science-toolkit](https://github.com/tu-usuario/data-science-toolkit)
+- Autores: Juan Antonio Mugica L. | Diego Emilio Enriquez N. 
+- Email: toonymlp@gmail.com | 
