@@ -10,5 +10,7 @@ def kaggle_dataset(path_name,dest_path):
             shutil.copy(full_file_name, dest_path)
     return print("Files copy complete on:", dest_path)
 
-kaggle_dataset("adilshamim8/predict-calorie-expenditure", "data/raw/calories-expenditure")
+# 1st 
+# Dataset
+# kaggle_dataset("adilshamim8/predict-calorie-expenditure", "data/raw/calories-expenditure")
 
