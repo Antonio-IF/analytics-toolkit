@@ -33,3 +33,17 @@ def kaggle_dataset(path_name,dest_path, create_dir=False):
 # 2th DS; 
 # kaggle_dataset("yashdevladdha/uber-ride-analytics-dashboard", "data/raw/uber-ride-analytics", create_dir=True)
 
+# 3th DS; 
+# kaggle_dataset("mdsultanulislamovi/student-stress-monitoring-datasets", "data/raw/student-stress", create_dir=True)
+
+# 4th DS; 
+# kaggle_dataset("danielijezie/premier-league-data-from-2016-to-2024", "data/raw/premier-league-16-24", create_dir=True)
+
+# 5th DS; 
+# kaggle_dataset("sanskar21072005/amazon-best-sellers-2025", "data/raw/amazon-best-sellers-25", create_dir=True)
+
+# 6th DS; 
+# kaggle_dataset("geraldooizx/g-coffee-shop-transaction-202307-to-202506", "data/raw/coffe-shop-transactions", create_dir=True)
+
+# 7th DS; 
+# kaggle_dataset("alperenmyung/international-hotel-booking-analytics", "data/raw/hotel-booking-analytics", create_dir=True)
