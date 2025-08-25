@@ -30,3 +30,6 @@ def kaggle_dataset(path_name,dest_path, create_dir=False):
 # 1st Dataset;
 # kaggle_dataset("adilshamim8/predict-calorie-expenditure", "data/raw/calories-expenditure")
 
+# 2th DS; 
+# kaggle_dataset("yashdevladdha/uber-ride-analytics-dashboard", "data/raw/uber-ride-analytics", create_dir=True)
+
